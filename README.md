@@ -1,1 +1,1 @@
-# COMP9318
+Data Warehouse and Data Mining with Python3.6
